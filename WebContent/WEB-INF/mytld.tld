@@ -1,0 +1,6 @@
+<taglib>
+<tag>
+<name>mytag</name>
+<tagclass>MyTag</tagclass>
+</tag>
+</taglib>
